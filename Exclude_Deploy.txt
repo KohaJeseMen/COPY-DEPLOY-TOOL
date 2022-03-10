@@ -1,0 +1,11 @@
+.vs
+.sln
+.cs
+Project_Readme.html
+.csproj
+.csproj.user
+Web.Debug.config
+Web.Release.config
+obj
+Logs
+Models
