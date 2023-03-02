@@ -9,7 +9,7 @@ Hệ phần mềm gồm:
 
 Bổ sung Exclude tương ứng nếu cần thiết.
 
-Có thể tự tuỳ chỉnh mà nguồn tuỳ thích theo ý mình muốn.
+Có thể tự tuỳ chỉnh mã nguồn tuỳ thích theo ý mình muốn.
 
 ## Cách dùng (bản chuẩn không sửa chữa)
 1. Mở chạy tệp `Deploy Tool.cmd` sau đó chọn theo menu hướng dẫn.
@@ -22,7 +22,7 @@ Có thể tự tuỳ chỉnh mà nguồn tuỳ thích theo ý mình muốn.
 ## Yêu cầu
 1. Phần mềm chỉ sử dụng trên Windows.
 2. Cần có xcopy trong Windows, nếu không phải cài đặt bổ sung.
-3. KHÔNG YÊU CẦU CHẠY VỚI QUYỀN ADMINITRATORS
+3. KHÔNG YÊU CẦU CHẠY VỚI QUYỀN ADMINISTRATOR
 
 ## Tài liệu tham khảo
 https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/xcopy
